@@ -1,4 +1,4 @@
-# Relative abundance of major orders and functional groups identified as potential pollinators, as captured by PICT cameras on each of the seven canopy trees surveyed.
+# Estimation of the relative abundance of major orders and functional groups identified as potential pollinators, as captured by PICT cameras on each of the seven canopy trees surveyed.
 # Import necessary Libraries
 library(ggplot2)
 library(webr)
