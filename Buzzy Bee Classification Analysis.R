@@ -1,4 +1,4 @@
-#Analysis of BuzzyBee classification 
+#Analysis of Buzzy Bee classification 
 
 setwd("/Users/Oria/Documents/ULB/PhD/Zooniverse/Script_Subjects")
 
