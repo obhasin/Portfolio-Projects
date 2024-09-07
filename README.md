@@ -3,7 +3,7 @@
 ## Table of Contents
 ### About
 ### R projects
-- [Project 1: Activity Analysis of Insect Orders](https://github.com/Portfolio-Projects/README.md#project-1-activity-analysis-of-insect-orders)
+- [Project 1: Activity Analysis of Insect Orders](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-1-activity-analysis-of-insect-orders)
 - Project 2: BuzzyBee Classification Analysis
 - Project 3: Correspondence Analysis of Insect Sampling Methods
 - Project 4: Kendall's Rank Correlation Analysis
