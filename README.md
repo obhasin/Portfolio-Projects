@@ -1,7 +1,7 @@
 # Oriana Bhasin - Ecological Data Scientist Portfolio
 
 ## Table of Contents
-### About
+### [About](https://github.com/obhasin/Portfolio-Projects/edit/master/README.md#about-1)
 ### R projects
 - [Project 1: Activity Analysis of Insect Orders](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-1-activity-analysis-of-insect-orders)
 - [Project 2: BuzzyBee Classification Analysis](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-2-buzzy-bee-classification-analysis)
