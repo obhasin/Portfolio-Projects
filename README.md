@@ -14,8 +14,8 @@ PhD in Evolutionary Biology & Ecology, Université libre de Bruxelles, Oct 2018 
 M.Sc. in Organisms Biology and Ecology, Université libre de Bruxelles, Sep 2015 - Sep 2017 
 Bachelor in Biological Sciences, Université libre de Bruxelles, Sep 2011 - Sep 2015
 ### Contacts
-LinkedIn: [@orianabhasin](https://www.linkedin.com/in/oriana-bhasin-842345107/)
-Email: [oriana.bhasin@gmail.com](mailto:oriana.bhasin@gmail.com)
+- LinkedIn: [@orianabhasin](https://www.linkedin.com/in/oriana-bhasin-842345107/)
+- Email: [oriana.bhasin@gmail.com](mailto:oriana.bhasin@gmail.com)
 
 ## About
 
