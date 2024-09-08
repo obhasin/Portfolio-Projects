@@ -10,7 +10,6 @@
 - [Project 5: Pie and Donut Combo Chart for Pollinator Proportions](https://github.com/obhasin/Portfolio-Projects/edit/master/README.md#project-5-pie-and-donut-combo-chart-for-pollinator-proportions)
 - [Project 6: Point Pattern Analysis of Tree Data](https://github.com/obhasin/Portfolio-Projects/edit/master/README.md#project-6-point-pattern-analysis-of-tree-data)
 ### Education
-### Certificates
 ### Contact
 
 ## About
