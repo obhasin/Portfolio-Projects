@@ -1,14 +1,14 @@
 # Oriana Bhasin - Ecological Data Scientist Portfolio
 
 ## Table of Contents
-### [About](https://github.com/obhasin/Portfolio-Projects/edit/master/README.md#about-1)
+### [About](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#about-1)
 ### R projects
 - [Project 1: Activity Analysis of Insect Orders](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-1-activity-analysis-of-insect-orders)
 - [Project 2: BuzzyBee Classification Analysis](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-2-buzzy-bee-classification-analysis)
-- [Project 3: Correspondence Analysis of Insect Sampling Methods](https://github.com/obhasin/Portfolio-Projects/edit/master/README.md#project-3-correspondence-analysis-of-insect-sampling-methods)
-- [Project 4: Kendall's Rank Correlation Analysis](https://github.com/obhasin/Portfolio-Projects/edit/master/README.md#project-4-kendalls-rank-correlation-analysis)
-- [Project 5: Pie and Donut Combo Chart for Pollinator Proportions](https://github.com/obhasin/Portfolio-Projects/edit/master/README.md#project-5-pie-and-donut-combo-chart-for-pollinator-proportions)
-- [Project 6: Point Pattern Analysis of Tree Data](https://github.com/obhasin/Portfolio-Projects/edit/master/README.md#project-6-point-pattern-analysis-of-tree-data)
+- [Project 3: Correspondence Analysis of Insect Sampling Methods](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-3-correspondence-analysis-of-insect-sampling-methods)
+- [Project 4: Kendall's Rank Correlation Analysis](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-4-kendalls-rank-correlation-analysis)
+- [Project 5: Pie and Donut Combo Chart for Pollinator Proportions](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-5-pie-and-donut-combo-chart-for-pollinator-proportions)
+- [Project 6: Point Pattern Analysis of Tree Data](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-6-point-pattern-analysis-of-tree-data)
 ### Education
 PhD in Evolutionary Biology & Ecology, Université libre de Bruxelles, Oct 2018 - Feb 2024 
 M.Sc. in Organisms Biology and Ecology, Université libre de Bruxelles, Sep 2015 - Sep 2017 
