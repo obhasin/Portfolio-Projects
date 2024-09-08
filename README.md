@@ -10,11 +10,18 @@
 - [Project 5: Pie and Donut Combo Chart for Pollinator Proportions](https://github.com/obhasin/Portfolio-Projects/edit/master/README.md#project-5-pie-and-donut-combo-chart-for-pollinator-proportions)
 - [Project 6: Point Pattern Analysis of Tree Data](https://github.com/obhasin/Portfolio-Projects/edit/master/README.md#project-6-point-pattern-analysis-of-tree-data)
 ### Education
-### Contact
+PhD in Evolutionary Biology & Ecology, Université libre de Bruxelles, Oct 2018 - Feb 2024 
+M.Sc. in Organisms Biology and Ecology, Université libre de Bruxelles, Sep 2015 - Sep 2017 
+Bachelor in Biological Sciences, Université libre de Bruxelles, Sep 2011 - Sep 2015
+### Contacts
+LinkedIn: [@orianabhasin](https://www.linkedin.com/in/oriana-bhasin-842345107/)
+Email: [oriana.bhasin@gmail.com](mailto:oriana.bhasin@gmail.com)
 
 ## About
 
 I am a dynamic and results-driven environmental scientist with a PhD in Evolutionary Biology & Ecology, specializing in ecological research, data analysis, and project management. I have extensive experience using advanced analytical tools such as R, Python, and QGIS to drive impactful conservation efforts and sustainable development initiatives. This portfolio showcases key projects that reflect my expertise in biodiversity, genetic analysis, and ecological data visualization.
+
+My resume in [pdf](https://github.com/obhasin/Portfolio-Projects/blob/master/Resume_Oriana_Bhasin.pdf).
 
 ### Project 1: Activity Analysis of Insect Orders
 #### Description: 
