@@ -1,8 +1,14 @@
 # Oriana Bhasin - Ecological Data Scientist Portfolio
 
+## About
+
+I am a dynamic and results-driven environmental scientist with a PhD in Evolutionary Biology & Ecology, specializing in ecological research, data analysis, and project management. I have extensive experience using advanced analytical tools such as R, Python, and QGIS to drive impactful conservation efforts and sustainable development initiatives. This portfolio showcases key projects that reflect my expertise in biodiversity, genetic analysis, and ecological data visualization.
+
+My resume in [pdf](https://github.com/obhasin/Portfolio-Projects/blob/master/Resume_Oriana_Bhasin.pdf).
+
 ## Table of Contents
 ### [About](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#about-1)
-### R projects
+### [R projects]((https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#about-1))
 - [Project 1: Activity Analysis of Insect Orders](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-1-activity-analysis-of-insect-orders)
 - [Project 2: BuzzyBee Classification Analysis](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-2-buzzy-bee-classification-analysis)
 - [Project 3: Correspondence Analysis of Insect Sampling Methods](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-3-correspondence-analysis-of-insect-sampling-methods)
@@ -16,12 +22,6 @@ Bachelor in Biological Sciences, Université libre de Bruxelles, Sep 2011 - Sep 
 ### Contacts
 - LinkedIn: [@orianabhasin](https://www.linkedin.com/in/oriana-bhasin-842345107/)
 - Email: [oriana.bhasin@gmail.com](mailto:oriana.bhasin@gmail.com)
-
-## About
-
-I am a dynamic and results-driven environmental scientist with a PhD in Evolutionary Biology & Ecology, specializing in ecological research, data analysis, and project management. I have extensive experience using advanced analytical tools such as R, Python, and QGIS to drive impactful conservation efforts and sustainable development initiatives. This portfolio showcases key projects that reflect my expertise in biodiversity, genetic analysis, and ecological data visualization.
-
-My resume in [pdf](https://github.com/obhasin/Portfolio-Projects/blob/master/Resume_Oriana_Bhasin.pdf).
 
 ### Project 1: Activity Analysis of Insect Orders
 #### Description: 
