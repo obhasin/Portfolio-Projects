@@ -32,6 +32,8 @@ This project focused on the activity patterns of various insect orders using ker
 The analysis provided insights into the temporal distribution of insect activity, contributing to a better understanding of pollinator behavior.
 
 ### Project 2: Buzzy Bee Classification Analysis
+#### Authors:
+Olivier Hardy & Oriana Bhasin
 #### Description: 
 The Buzzy Bee classification analysis aimed to enhance understanding of African canopy pollinators by leveraging citizen science data. The project involved detailed statistical analysis and data visualization using R.
 #### Script: 
