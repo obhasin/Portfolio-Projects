@@ -15,8 +15,8 @@ My resume in [pdf](https://github.com/obhasin/Portfolio-Projects/blob/master/Res
 - [Project 4: Kendall's Rank Correlation Analysis](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-4-kendalls-rank-correlation-analysis)
 - [Project 5: Pie and Donut Combo Chart for Pollinator Proportions](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-5-pie-and-donut-combo-chart-for-pollinator-proportions)
 - [Project 6: Point Pattern Analysis of Tree Data](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-6-point-pattern-analysis-of-tree-data)
-### [Education](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#education)
-### [Contacts](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#contacts)
+### [Education](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#education-1)
+### [Contacts](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#contacts-1)
 
 ### Project 1: Activity Analysis of Insect Orders
 #### Description: 
