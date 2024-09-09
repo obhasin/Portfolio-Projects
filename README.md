@@ -8,20 +8,15 @@ My resume in [pdf](https://github.com/obhasin/Portfolio-Projects/blob/master/Res
 
 ## Table of Contents
 ### [About](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#about-1)
-### [R projects]((https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#about-1))
+### [R projects](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#r-projects)
 - [Project 1: Activity Analysis of Insect Orders](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-1-activity-analysis-of-insect-orders)
 - [Project 2: BuzzyBee Classification Analysis](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-2-buzzy-bee-classification-analysis)
 - [Project 3: Correspondence Analysis of Insect Sampling Methods](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-3-correspondence-analysis-of-insect-sampling-methods)
 - [Project 4: Kendall's Rank Correlation Analysis](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-4-kendalls-rank-correlation-analysis)
 - [Project 5: Pie and Donut Combo Chart for Pollinator Proportions](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-5-pie-and-donut-combo-chart-for-pollinator-proportions)
 - [Project 6: Point Pattern Analysis of Tree Data](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-6-point-pattern-analysis-of-tree-data)
-### Education
-PhD in Evolutionary Biology & Ecology, Université libre de Bruxelles, Oct 2018 - Feb 2024 
-M.Sc. in Organisms Biology and Ecology, Université libre de Bruxelles, Sep 2015 - Sep 2017 
-Bachelor in Biological Sciences, Université libre de Bruxelles, Sep 2011 - Sep 2015
-### Contacts
-- LinkedIn: [@orianabhasin](https://www.linkedin.com/in/oriana-bhasin-842345107/)
-- Email: [oriana.bhasin@gmail.com](mailto:oriana.bhasin@gmail.com)
+### [Education](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#Education)
+### [Contacts](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#r-projects)
 
 ### Project 1: Activity Analysis of Insect Orders
 #### Description: 
@@ -103,4 +98,15 @@ This project used point pattern analysis to study the spatial distribution of tr
 - Data visualization and result interpretation
 #### Results: 
 The analysis revealed patterns of tree distribution that are crucial for understanding forest dynamics and informing conservation strategies.
+
+## Education
+PhD in Evolutionary Biology & Ecology, Université libre de Bruxelles, Oct 2018 - Feb 2024 
+M.Sc. in Organisms Biology and Ecology, Université libre de Bruxelles, Sep 2015 - Sep 2017 
+Bachelor in Biological Sciences, Université libre de Bruxelles, Sep 2011 - Sep 2015
+
+## Contacts
+- LinkedIn: [@orianabhasin](https://www.linkedin.com/in/oriana-bhasin-842345107/)
+- Email: [oriana.bhasin@gmail.com](mailto:oriana.bhasin@gmail.com)
+
+
 
