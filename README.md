@@ -15,6 +15,9 @@ My resume in [pdf](https://github.com/obhasin/Portfolio-Projects/blob/master/Res
 - [Project 4: Kendall's Rank Correlation Analysis](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-4-kendalls-rank-correlation-analysis)
 - [Project 5: Pie and Donut Combo Chart for Pollinator Proportions](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-5-pie-and-donut-combo-chart-for-pollinator-proportions)
 - [Project 6: Point Pattern Analysis of Tree Data](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-6-point-pattern-analysis-of-tree-data)
+[Project 7: Venn Diagram Visualization of Insect Orders](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-6-point-pattern-analysis-of-tree-data))
+Project 8: Germination Survival Analysis with Kaplan-Meier Curves
+Project 9: Multinomial Logistic Regression on Species Occurrence
 ### [Education](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#education-1)
 ### [Contacts](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#contacts-1)
 
@@ -100,6 +103,47 @@ This project used point pattern analysis to study the spatial distribution of tr
 - Data visualization and result interpretation
 #### Results: 
 The analysis revealed patterns of tree distribution that are crucial for understanding forest dynamics and informing conservation strategies.
+
+### Project 7: Venn Diagram Visualization of Insect Orders
+#### Description:
+This project involved creating Venn diagrams to visualize the overlap between different insect orders. Using both the VennDiagram and nVennR R packages, the project aimed to represent intersections in insect occurrence across four distinct categories.
+#### Script: 
+[Venn Diagram Visualization](https://github.com/obhasin/Portfolio-Projects/blob/master/Venn%20Diagram%20Visualization%20of%20Insect%20Orders.R)
+#### Skills:
+- Venn diagram creation using VennDiagram and nVennR
+- Data representation of categorical overlaps
+- Visualization using customizable colors, borders, and transparencies
+#### Results:
+The Venn diagrams provided an intuitive representation of the overlaps and distinctions among the insect orders, enhancing data comprehension for research audiences.
+
+### Project 8: Germination Survival Analysis with Kaplan-Meier Curves
+#### Description:
+This project examined the germination of seeds under various treatments using survival analysis. The Kaplan-Meier curves were employed to visualize germination probabilities over time, and log-rank tests were performed to compare the survival distributions across different treatments.
+#### Script: 
+[Germination Survival Analysis with Kaplan-Meier Curves](https://github.com/obhasin/Portfolio-Projects/blob/master/Germination%20Survival%20Analysis%20with%20Kaplan-Meier%20Curves.R)
+#### Skills:
+- Survival analysis using survival and survminer R packages
+- Kaplan-Meier estimation and visualization
+- Statistical comparison of survival distributions using log-rank tests
+- Data preparation and time-based analysis of germination events
+#### Results:
+The analysis provided a clear visualization of seed germination over time, with significant differences observed between treatments, contributing valuable insights into seed viability and germination strategies.
+
+### Project 9: Multinomial Logistic Regression on Species Occurrence
+#### Description:
+This project focused on species occurrence modeling using multinomial logistic regression. The analysis explored how species presence is associated with environmental factors, such as time classification and vertical position, to predict species distribution in the ecosystem.
+
+#### Script: 
+[Multinomial Logistic Regression Analysis](https://github.com/obhasin/Portfolio-Projects/blob/master/Multinomial%20Logistic%20Regression%20on%20Species%20Occurrence.R)
+
+#### Skills:
+- Data preparation and cleaning for species occurrence data
+- Multinomial logistic regression using nnet package
+- Calculation of z-values and p-values for model interpretation
+- Prediction of species occurrence probabilities
+- Data visualization using ggplot2 for predictive analysis
+#### Results:
+The multinomial logistic regression provided insights into species distribution patterns and identified key environmental factors influencing species occurrence in different habitats.
 
 ## Education
 PhD in Evolutionary Biology & Ecology, Université libre de Bruxelles, Oct 2018 - Feb 2024 
