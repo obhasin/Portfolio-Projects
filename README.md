@@ -40,7 +40,7 @@ Olivier Hardy & Oriana Bhasin
 #### Description: 
 The Buzzy Bee classification analysis aimed to enhance understanding of African canopy pollinators by leveraging citizen science data. The project involved detailed statistical analysis and data visualization using R.
 #### Script: 
-[Buzzy Bee Classification Analysis](https://github.com/obhasin/Portfolio-Projects/blob/master/BuzzyBee%20Classification%20Analysis.R)
+[Buzzy Bee Classification Analysis](https://github.com/obhasin/Portfolio-Projects/blob/master/Buzzy%20Bee%20Classification%20Analysis.R)
 #### Skills:
 - Data cleaning and preparation
 - Observer coherence analysis
