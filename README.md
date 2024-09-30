@@ -146,9 +146,9 @@ This project focused on species occurrence modeling using multinomial logistic r
 The multinomial logistic regression provided insights into species distribution patterns and identified key environmental factors influencing species occurrence in different habitats.
 
 ## Education
-PhD in Evolutionary Biology & Ecology, Université libre de Bruxelles, Oct 2018 - Feb 2024 
-M.Sc. in Organisms Biology and Ecology, Université libre de Bruxelles, Sep 2015 - Sep 2017 
-Bachelor in Biological Sciences, Université libre de Bruxelles, Sep 2011 - Sep 2015
+- PhD in Evolutionary Biology & Ecology, Université libre de Bruxelles, Oct 2018 - Feb 2024 
+- M.Sc. in Organisms Biology and Ecology, Université libre de Bruxelles, Sep 2015 - Sep 2017 
+- Bachelor in Biological Sciences, Université libre de Bruxelles, Sep 2011 - Sep 2015
 
 ## Contacts
 - LinkedIn: [@orianabhasin](https://www.linkedin.com/in/oriana-bhasin-842345107/)
