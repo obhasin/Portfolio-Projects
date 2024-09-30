@@ -17,7 +17,7 @@ My resume in [pdf](https://github.com/obhasin/Portfolio-Projects/blob/master/Res
 - [Project 6: Point Pattern Analysis of Tree Data](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-6-point-pattern-analysis-of-tree-data)
 - [Project 7: Venn Diagram Visualization of Insect Orders](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-7-venn-diagram-visualization-of-insect-orders)
 - [Project 8: Germination Survival Analysis with Kaplan-Meier Curves](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-8-germination-survival-analysis-with-kaplan-meier-curves)
-- [Project 9: Multinomial Logistic Regression on Species Occurrence](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-7-venn-diagram-visualization-of-insect-orders)
+- [Project 9: Multinomial Logistic Regression on Species Occurrence](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-9-multinomial-logistic-regression-on-species-occurrence)
 ### [Education](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#education-1)
 ### [Contacts](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#contacts-1)
 
