@@ -15,9 +15,9 @@ My resume in [pdf](https://github.com/obhasin/Portfolio-Projects/blob/master/Res
 - [Project 4: Kendall's Rank Correlation Analysis](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-4-kendalls-rank-correlation-analysis)
 - [Project 5: Pie and Donut Combo Chart for Pollinator Proportions](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-5-pie-and-donut-combo-chart-for-pollinator-proportions)
 - [Project 6: Point Pattern Analysis of Tree Data](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-6-point-pattern-analysis-of-tree-data)
-[Project 7: Venn Diagram Visualization of Insect Orders](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-6-point-pattern-analysis-of-tree-data))
-Project 8: Germination Survival Analysis with Kaplan-Meier Curves
-Project 9: Multinomial Logistic Regression on Species Occurrence
+- [Project 7: Venn Diagram Visualization of Insect Orders](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#project-6-point-pattern-analysis-of-tree-data))
+- Project 8: Germination Survival Analysis with Kaplan-Meier Curves
+- Project 9: Multinomial Logistic Regression on Species Occurrence
 ### [Education](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#education-1)
 ### [Contacts](https://github.com/obhasin/Portfolio-Projects/tree/master?tab=readme-ov-file#contacts-1)
 
