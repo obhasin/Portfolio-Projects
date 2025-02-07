@@ -2,7 +2,7 @@
 
 ## About
 
-I am a dynamic and results-driven environmental scientist with a PhD in Evolutionary Biology & Ecology, specializing in ecological research, data analysis, and project management. I have extensive experience using advanced analytical tools such as R, Python, and QGIS to drive impactful conservation efforts and sustainable development initiatives. This portfolio showcases key projects that reflect my expertise in biodiversity, genetic analysis, and ecological data visualization.
+I am a dynamic and results-driven environmental analyst with a PhD in Evolutionary Biology & Ecology, specializing in ecological research, data analysis, and project management. I have extensive experience using advanced analytical tools such as R, Python, and QGIS to drive impactful conservation efforts and sustainable development initiatives. This portfolio showcases key projects that reflect my expertise in biodiversity, genetic analysis, and ecological data visualization.
 
 My resume in [pdf](https://github.com/obhasin/Portfolio-Projects/blob/master/Resume_Oriana_Bhasin.pdf).
 
