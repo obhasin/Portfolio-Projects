@@ -133,12 +133,12 @@ video3.IA_3o <- Tv3$subject_id[Tv3$interesting.animals >= 0.7]
 
 video.IA_not_in_video3.IA = video.IA[!(video.IA %in% video3.IA_1o | video.IA %in% video3.IA_2o  | video.IA %in% video3.IA_3o)]
 
-# Set working directory
-setwd("/Users/Oria/Documents/ULB/PhD/Zooniverse/Zoo_Data_Analysis")
-
 # Create playlist
 #subject_id = video.IA_not_in_video3.IA
 subject_id = video3.IA_3o
+
+# Set working directory
+setwd("/Users/Oria/Documents/ULB/PhD/Zooniverse/Zoo_Data_Analysis")
 
 #videoT <- read.table("subject_ID_MOV.txt", header=T, sep='\t')
 #treeT <- read.table("treeID.txt", header=T, sep='\t') 
