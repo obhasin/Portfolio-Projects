@@ -1,8 +1,7 @@
 # Oriana Bhasin - Ecological Data Scientist Portfolio
 
 ## About
-
-I am a dynamic and results-driven environmental analyst with a PhD in Evolutionary Biology & Ecology, specializing in ecological research, data analysis, and project management. I have extensive experience using advanced analytical tools such as R, Python, and QGIS to drive impactful conservation efforts and sustainable development initiatives. This portfolio showcases key projects that reflect my expertise in biodiversity, genetic analysis, and ecological data visualization.
+ Biodiversity scientist with a PhD in Evolutionary Biology & Ecology and over five years of experience in biodiversity monitoring, ecological research, and species resilience studies. Specialized in species interactions, genetic diversity, and ecological monitoring, applying quantitative research methods and statistical analysis to assess biodiversity trends and inform science-driven conservation strategies. This portfolio showcases key projects that reflect my expertise in biodiversity, genetic analysis, and ecological data visualization.
 
 My resume in [pdf](https://github.com/obhasin/Portfolio-Projects/blob/master/Resume_Oriana_Bhasin.pdf).
 
@@ -148,7 +147,9 @@ The multinomial logistic regression provided insights into species distribution 
 ## Education
 - PhD in Evolutionary Biology & Ecology, Université libre de Bruxelles, Oct 2018 - Feb 2024 
 - M.Sc. in Organisms Biology and Ecology, Université libre de Bruxelles, Sep 2015 - Sep 2017 
-- Bachelor in Biological Sciences, Université libre de Bruxelles, Sep 2011 - Sep 2015
+
+## Certification
+- IBM Data Science Professional Certificate 	Oct 2024 – Jan 2025
 
 ## Contacts
 - LinkedIn: [@orianabhasin](https://www.linkedin.com/in/oriana-bhasin-842345107/)
